@@ -19,12 +19,9 @@ There were a few NANS which were removed.Dropped rows which the data was just a 
 This was a very simple data with little to feature engineer but served as pratice to help remember analysis codes.
 
 The data results were very different from what I hypothesized. About 14% is actually livng under low GNI. The middle income group takes about 50% of the worlds nation and about 37% is of high income.
+![Graph](/assets/img/graph.png){:class="img-responsive"}
+![Map](/assets/img/pic.png){:class="img-responsive"}
+![Legend](/assets/img/pic2.png){:class="img-responsive"}
 
-.......
-img: 
-  - "/img:/assets/img/graph.png"
-  - "/img:/assets/img/pic.png"
-  - "/img:/assets/img/pic2.png"
----
 
 It would be a good inclusion to add data of the cost of living in each country to see a glimpse of how it compares from their GNI.
