@@ -2,8 +2,8 @@
 layout: post
 title: 
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/world.jpg
-thumbnail-img: /assets/img/world.png
+cover-img: /assets/img/world.jfif
+thumbnail-img: /assets/img/world.jfif
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
