@@ -16,4 +16,12 @@ Data Description: This 2019 data is obtained from the WorldBank.It allows classi
 
 My hypothesis was that 60% of the world's nations are living under low income.
 There were a few NANS which were removed.Dropped rows which the data was just a single variable. Calculated the array percentage. 
-This was a very simple data with little to feature engineer but served as pratice to help remember analysis commands.
+This was a very simple data with little to feature engineer but served as pratice to help remember analysis codes.
+
+The data results were very different from what I hypothesized. About 14% is actually livng under low GNI. The middle income group takes about 50% of the worlds nation and about 37% is of high income.
+
+
+img:/assets/img/graph.png
+img:/assets/img/pic.png
+img:/assets/img/pic2.png
+It would be a good inclusion to add data of the cost of living in each country to see a glimpse of how it compares from their GNI.
