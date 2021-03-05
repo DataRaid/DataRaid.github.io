@@ -41,4 +41,4 @@ The data results were very different from what I hypothesized. About 14% is actu
 
 It would be a good inclusion to add data of the cost of living in each country to see a glimpse of how it compares from their GNI.
 
-source:https://datahelpdesk.worldbank.org/knowledgebase/articles/906519, https://www.kaggle.com/taniaj/world-bank-country-and-lending-groups
+sources:https://datahelpdesk.worldbank.org/knowledgebase/articles/906519, https://www.kaggle.com/taniaj/world-bank-country-and-lending-groups, https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html
