@@ -10,7 +10,7 @@ tags: [Python]
 <h3>The largest ecommerce marketplace of Brazil</h3>
 
 Olist is the largest department store in the Brazilian marketplaces. 
-Olist Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. 
+Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. 
 Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, 
 or the estimated delivery date is due,the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
@@ -32,6 +32,6 @@ which features each data frame shared for a merge.
 
 
 <h3>Cleaning the data and feature engineering:</h3>
--I ended up using 4 columns out of the 8. 
--Each data frame was checked for null values, high cardinality categorical values.
+<li>I ended up using 4 columns out of the 8.</li>
+Each data frame was checked for null values, high cardinality categorical values.
 
