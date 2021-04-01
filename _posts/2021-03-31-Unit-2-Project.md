@@ -60,7 +60,7 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![gini](/assets/img/gini.PNG) 
+!(/assets/img/gini.PNG) 
 
 
 
