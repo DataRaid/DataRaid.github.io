@@ -32,6 +32,11 @@ which features each data frame shared for a merge.
 
 
 <h3>Cleaning the data and feature engineering:</h3>
-<li>I ended up using 4 columns out of the 8.
-Each data frame was checked for null values, high cardinality categorical values.
+<li>I ended up using 4 columns out of the 8.</li>
+<li>Each data frame was checked for null values and high cardinality categorical values </li>
+<li>The high cardinality catergorical values were dropped in cases such as zipcodes and cities. Others
+  which were needed in the model were grouped such as the product categories that occupied less than 20%
+  combined were set as 'other' and the top five as they were.</li>
+<li>This was done to multiple features on varius data frames.</li>
+<li>
 
