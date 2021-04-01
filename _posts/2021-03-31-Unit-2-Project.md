@@ -59,14 +59,19 @@ validation accuracy. Below is the 10 most important features in my model based o
 ![gini](/assets/img/gini.PNG) 
 
 
+
 <li>The confusion matrix chart</li>
+
 
 
 ![confusion](/assets/img/confusion.PNG)
 
 
 
+
 ![score](/assets/img/score.PNG)
+
+
 
 <li>The model correctly predicted 18494 predictions and 4594 incorrectly. About an 80% accuracy compared to the base of 74%.</li>
 <h3> Conclusion</h3>
