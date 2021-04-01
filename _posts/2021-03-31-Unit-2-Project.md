@@ -63,7 +63,7 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![gini](https://user-images.githubusercontent.com/80070571/113316865-ccb7f380-92dc-11eb-89c4-898d82dcd7e0.PNG)
+![Diagram](/assets/img/chartapply.PNG)
 
 
 
