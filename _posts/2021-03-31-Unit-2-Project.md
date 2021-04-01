@@ -35,8 +35,20 @@ which features each data frame shared for a merge.
 <li>I ended up using 4 columns out of the 8.</li>
 <li>Each data frame was checked for null values and high cardinality categorical values </li>
 <li>The high cardinality catergorical values were dropped in cases such as zipcodes and cities. Others
-  which were needed in the model were grouped such as the product categories that occupied less than 20%
-  combined were set as 'other' and the top five as they were.</li>
-<li>This was done to multiple features on varius data frames.</li>
-<li>
-
+  which were needed in the model were lowered in cardinality.This was done to multiple features on varius data frames.</li>
+<li>Each data frame used was indexed by either the product i.d or order i.d to make the merging easier.</li>
+<li>The merging was done on the indexes and with an inner merge.</li>
+<li>The final data frame consisted of 100k observations and 7 features.
+<li>The target feature in the last data frame created by the merge was modified to be a binary column having credit card 
+  payment as main feature instead of having three others.
+  
+<h3>Splitting and Classification Modeling with Hypertuning</h3>
+<li>The target of my prediction was credit card payment method.</li>
+<li> I dropped the target column for the validation data frame and did a train_test_split(X, y, test_size=0.2, random_state=42).</li>
+<li> My baseline prediction was 74%.
+<li> For my binary classification I started using RandomForestClassifier with n_estimators=60, n_jobs=-1, random_state=42.
+  This yielded a 99% train accuracy score and a 81% validation acc. A clear overfitting problem.</li>
+<li> I ended up using XGBoost with the parameters:n_estimators=100, max_depth=10, learning_rate=1e-3 and n_jobs=10.
+  Tuning these parameters made a huge difference in my scores.</li>
+ 
+ 
