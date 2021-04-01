@@ -64,7 +64,11 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
+
+
 <li>The confusion matrix chart</li>
+
+
 
 
 
@@ -72,7 +76,11 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
+
+
 ![score](/assets/img/score.PNG)
+
+
 
 
 
