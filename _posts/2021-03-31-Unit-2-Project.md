@@ -2,9 +2,9 @@
 layout: post
 title: Machine Learning With Olist Data
 subtitle: How will you pay?
-cover-img: /assets/img/brazil.PNG
-thumbnail-img: /assets/img/brazil.PNG
-share-img: /assets/img/brazil.png
+cover-img: /assets/img/Brazil.PNG
+thumbnail-img: /assets/img/Brazil.PNG
+share-img: /assets/img/Brazil.png
 tags: [Python]
 ---
 ##The 'almost' Amazon of Brazil
