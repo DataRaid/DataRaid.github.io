@@ -67,5 +67,5 @@ validation accuracy. Below is the 10 most important features in my model based o
 This model may have more room for improvement with tweaking the parameters even more and perhaps even using some data left out in other 
 data frames not used. Overall, i believe it is a good model for predicting if the customer will pay using a credit card at the checkout when shopping
 at Olist. This prediction can be used for implementing credit card offers to the customer that may be better than the ones they were planning to use
-for the payment while at checkout. This could be a business plan with banks that may be benefficial for all parties.
+for the payment while at checkout. This could be a business plan with banks that may be beneficial for all parties.
  
