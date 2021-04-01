@@ -32,6 +32,6 @@ which features each data frame shared for a merge.
 
 
 <h3>Cleaning the data and feature engineering:</h3>
-<li>I ended up using 4 columns out of the 8.</li>
+<li>I ended up using 4 columns out of the 8.
 Each data frame was checked for null values, high cardinality categorical values.
 
