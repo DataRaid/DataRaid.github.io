@@ -28,7 +28,7 @@ The data with all 8 data frames combined was massive. It has about 52 features a
 It was key to create an app.creatly.com diagram and carefully select which data frames contained key information in regards to my target feature and 
 which features each data frame shared for a merge.
 
-![Diagram](/assets/img/chart apply.PNG)          
+![Diagram](/assets/img/chartapply.PNG)          
 
 
 ##Cleaning the data and feature engineering:
