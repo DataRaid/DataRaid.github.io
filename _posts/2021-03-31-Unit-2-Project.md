@@ -36,6 +36,7 @@ which features each data frame shared for a merge.
 
 
 <h3>Cleaning the data and feature engineering:</h3>
+
 <li>I ended up using 4 columns out of the 8.</li>
 <li>Each data frame was checked for null values and high cardinality categorical values </li>
 <li>The high cardinality catergorical values were dropped in cases such as zipcodes and cities. Others
@@ -47,6 +48,7 @@ which features each data frame shared for a merge.
   payment as main feature instead of having three others.
   
 <h3>Splitting and Classification Modeling with Hypertuning</h3>
+
 <li>The target of my prediction was credit card payment method.</li>
 <li> I dropped the target column for the validation data and did a train_test_split(X, y, test_size=0.2, random_state=42).</li>
 <li> My baseline prediction was 74%.
@@ -54,13 +56,14 @@ which features each data frame shared for a merge.
   This yielded a 99% train accuracy score and a 81% validation acc. A clear overfitting problem.</li>
 <li> I ended up using XGBoost with the parameters:n_estimators=100, max_depth=10, learning_rate=1e-3 and n_jobs=10.
   Tuning these parameters made a huge difference in my scores.</li>
-<h3>Results</h3>
+<h3>Results:</h3>
+
 The scores obtained in the XGBoost model where significantly better than the randomforestclassifier giving an 81% training accuracy and a 80% 
 validation accuracy. Below is the 10 most important features in my model based on the reduction in gini impurity.
 
 
 
-!(/assets/img/gini.PNG) 
+(/assets/img/gini.PNG) 
 
 
 
@@ -72,13 +75,13 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![confusion](/assets/img/confusion.PNG)
+!(/assets/img/confusion.PNG)
 
 
 
 
 
-![score](/assets/img/score.PNG)
+(/assets/img/score.PNG)
 
 
 
