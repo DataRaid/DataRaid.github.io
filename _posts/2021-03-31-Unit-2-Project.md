@@ -53,6 +53,9 @@ which features each data frame shared for a merge.
 <h3>Results</h3>
 The scores obtained in the XGBoost model where significantly better than the randomforestclassifier giving an 81% training accuracy and a 80% 
 validation accuracy. Below is the 10 most important features in my model based on the reduction in gini impurity.
+
 ![gini](/assets/img/gini.PNG) 
+
 <li>The cofusion matrix chart</li>
+
 ![confusion](/assets/img/confusion.PNG)
