@@ -63,7 +63,7 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![](/assets/img/gini.PNG) 
+![v](/assets/img/gini.PNG) 
 
 
 
@@ -72,13 +72,13 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![](/assets/img/confusion.PNG)
+![x](/assets/img/confusion.PNG)
 
 
 
 
 
-![](/assets/img/score.PNG)
+![y](/assets/img/score.PNG)
 
 
 
