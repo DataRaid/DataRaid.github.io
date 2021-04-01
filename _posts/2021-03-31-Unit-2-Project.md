@@ -28,6 +28,7 @@ The data with all 8 data frames combined was massive. It has about 52 features a
 It was key to create an app.creatly.com diagram and carefully select which data frames contained key information in regards to my target feature and 
 which features each data frame shared for a merge.
 
+
 ![Diagram](/assets/img/chartapply.PNG)          
 
 
@@ -54,11 +55,16 @@ which features each data frame shared for a merge.
 The scores obtained in the XGBoost model where significantly better than the randomforestclassifier giving an 81% training accuracy and a 80% 
 validation accuracy. Below is the 10 most important features in my model based on the reduction in gini impurity.
 
+
 ![gini](/assets/img/gini.PNG) 
+
 
 <li>The confusion matrix chart</li>
 
+
 ![confusion](/assets/img/confusion.PNG)
+
+
 
 ![score](/assets/img/score.PNG)
 
