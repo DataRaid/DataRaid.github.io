@@ -63,7 +63,7 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![v](/assets/img/gini.PNG) 
+![gini](https://user-images.githubusercontent.com/80070571/113316865-ccb7f380-92dc-11eb-89c4-898d82dcd7e0.PNG)
 
 
 
@@ -72,13 +72,16 @@ validation accuracy. Below is the 10 most important features in my model based o
 
 
 
-![x](/assets/img/confusion.PNG)
+
+![confusion](https://user-images.githubusercontent.com/80070571/113316845-c6297c00-92dc-11eb-9243-dca2d4791452.PNG)
 
 
 
 
 
-![y](/assets/img/score.PNG)
+
+![score](https://user-images.githubusercontent.com/80070571/113316804-bdd14100-92dc-11eb-996d-e8aff51ecb60.PNG)
+
 
 
 
