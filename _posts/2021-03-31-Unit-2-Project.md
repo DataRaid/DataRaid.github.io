@@ -1,3 +1,5 @@
+![score](https://user-images.githubusercontent.com/80070571/113316445-56b38c80-92dc-11eb-9471-c1552b4200dc.PNG)
+![score](https://user-images.githubusercontent.com/80070571/113316489-6632d580-92dc-11eb-82d8-9e9d3d72945d.PNG)
 ---
 layout: post
 title: Machine Learning With Olist Data
